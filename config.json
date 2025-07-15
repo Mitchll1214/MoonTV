@@ -122,6 +122,11 @@
       "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "OK资源",
       "detail": "https://okzyw.cc"
+    },
+    "guangsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速",
+      "detail": "https://guangsuzy.com/"
     }
   }
 }
