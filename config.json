@@ -112,6 +112,16 @@
     "shandian": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "闪电"
+    },
+    "maotai": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台",
+      "detail": "https://mtzy.me/"
+    },
+    "OK": {
+      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "name": "OK资源",
+      "detail": "https://okzyw.cc"
     }
   }
 }
